@@ -1,3 +1,4 @@
 {
     // "go.testEnvFile": "/root/code/go_code/simple-bank/go_test_env.env"
+    "go.testFlags": ["-v"]
 }
